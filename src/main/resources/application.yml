@@ -1,0 +1,4 @@
+server:
+  port: 8383
+
+echo.text: "echo1"
